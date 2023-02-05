@@ -3,7 +3,7 @@
   <a href="https://github.com/gusttavares97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusttavares97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
-    <iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="480" height="180" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">via GIPHY</a></p>
+    <iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="480" height="180em" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">via GIPHY</a></p>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
