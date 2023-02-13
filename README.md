@@ -22,5 +22,3 @@ Olá eu sou Gustavo!
  
 </div>
 
-
-
