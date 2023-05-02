@@ -23,7 +23,11 @@ Olá eu sou Gustavo!
 <div> 
     <a href="https://www.behance.net/gustavotav52a2"><img src='https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white'></a>
   <a href = "mailto:gustavotavares018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-tavares-298801210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gustavo-tavares-298801210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+    <a href="https://legendary-kulfi-e5e983.netlify.app//" target="_blank"><img src="https://img.shields.io/website?style=for-the-badge" target="_blank">
+  </a> 
+  
  
 </div>
 
